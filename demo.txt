@@ -1,1 +1,2 @@
 this is a temp file
+this line is written just after commit the change
